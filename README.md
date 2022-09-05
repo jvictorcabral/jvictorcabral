@@ -2,8 +2,9 @@
 
 <div align="justify">
   Olá, me chamo João Victor.
+</div>
   Sou um jovem apaixonado por aprender coisas novas, sempre buscando sempre melhorias pessoal e profissionalmente. Atualmente estou estudando Desenvolvimento de Software pela Trybe. Trabalho e acredito em ações que possam gerar um impacto positivo na vida das pessoas.
- </div>
+
 
 <!-- ## Algumas coisas que são indispensáveis na minha vida 🤔
 
