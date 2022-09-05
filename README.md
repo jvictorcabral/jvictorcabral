@@ -33,14 +33,14 @@
 </div>
 
 ## Minhas Redes Sociais
-<div>
+<!-- <div>
   <a style="margin-right: 15px;" href="mailto:joaovictorcgjvcg@gmail.com" target="_blank">
     <img width="64px" alt="gmail" src="./images/gmail.png" />
   </a>
   <a style="margin-right: 15px;" href="https://www.linkedin.com/in/jvcg/" target="_blank">
     <img width="64px" alt="linkedIn" src="./images/linkedin.png" />
   </a>
-</div>
+</div> -->
 
 ## GitHub Stats
 <table>
