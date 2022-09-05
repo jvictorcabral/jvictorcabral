@@ -1,7 +1,7 @@
 ## Bom dia, boa tarde e boa noite 👋
 
 <div align="justify">
-  Me chamo João Victor
+  Olá, me chamo João Victor e atualmente estou estudando Desenvolvimento de Software pela Trybe.
  </div>
 
 ## Algumas coisas que são indispensáveis na minha vida 🤔
