@@ -4,13 +4,13 @@
   Olá, me chamo João Victor e atualmente estou estudando Desenvolvimento de Software pela Trybe.
  </div>
 
-## Algumas coisas que são indispensáveis na minha vida 🤔
+<!-- ## Algumas coisas que são indispensáveis na minha vida 🤔
 
 <ul align="justify">
   <li>1</li>
   <li>2</li>
   <li>3</li>
-</ul>
+</ul> -->
 
 ## Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
