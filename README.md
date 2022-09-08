@@ -6,15 +6,15 @@
   Sou um jovem apaixonado por aprender coisas novas, sempre buscando sempre melhorias pessoal e profissionalmente. Atualmente estou estudando Desenvolvimento de Software pela Trybe. Trabalho e acredito em ações que possam gerar um impacto positivo na vida das pessoas.
 
 
-<!-- ## Algumas coisas que são indispensáveis na minha vida 🤔
+## Algumas curiosidades sobre minha vida 🤔
 
 <ul align="justify">
-  <li>1</li>
-  <li>2</li>
-  <li>3</li>
-</ul> -->
+  <li>Sempre fui apaixonado por esportes, já pratiquei: futsal, basquete, natação, skate e karate</li>
+  <li>Invisto na bolsa de valores desde os meus 16 anos</li>
+  <li>Adoro ensinar e ajudar pessoas com temas de programação e investimento</li>
+</ul>
 
-## Tecnologias e Ferramentas
+## Tecnologias e Ferramentas 👨🏻‍💻
 <div style="display: inline_block"><br>
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
   <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
@@ -34,13 +34,13 @@
   <img align="center" alt="Sequelize" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain-wordmark.svg">
 </div>
 
-## Minhas Redes Sociais
+## Minhas Redes Sociais 🖥️
 <div> 
   <a href = "mailto:joaovictorcgjvcg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jvcg" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-## GitHub Stats
+<!-- ## GitHub Stats
 <table>
 <tr><td>
 
@@ -55,4 +55,4 @@
   </a>
 
 </td></tr>
-</table>
+</table> -->
