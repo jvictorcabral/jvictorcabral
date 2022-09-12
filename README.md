@@ -40,7 +40,7 @@
   <a href="https://www.linkedin.com/in/jvcg" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<!-- ## GitHub Stats
+## GitHub Stats
 <table>
 <tr><td>
 
@@ -55,4 +55,4 @@
   </a>
 
 </td></tr>
-</table> -->
+</table>
